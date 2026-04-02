@@ -25,3 +25,6 @@ BOM:
 -EC11 Rotary encoders
 -4x M3x16mm screws
 -4x M3x5mx4mm heatset inserts
+
+https://cad.onshape.com/documents/3ba38bfff855cfddc45cbf69/w/808f6b482d33defbe0a13735/e/96cd595a3b1b5c09e8d309e6 
+https://cad.onshape.com/documents/e4545445ee34f3fe719b9ca7/w/325323332d46911d8530cb9d/e/272b29456199771ed30c124c
