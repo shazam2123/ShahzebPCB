@@ -1,5 +1,4 @@
-My Project is a compact, fully programmable 3×3 mechanical macropad built around a microcontroller, paired with an LCD display and a dedicated switch, designed to plug into any computer via USB and execute custom shortcut commands on demand. This macropad gives you 9 individually programmable mechanical keys, a small LCD screen for real-time feedback, and a toggle/rotary switch. All within a minimal footprint that sits alongside your keyboard. Whether you're a developer, video editor, streamer, or power user, this device is built to eliminate repetitive keys and put your shortcuts one tap away.
-
+My Project is a compact, fully programmable 3×3 mechanical macropad built around a microcontroller, paired with an LCD display and a dedicated switch. It is designed to plug into any computer via USB-c and execute shortcuts. This macropad gives you 9 individually programmable mechanical keys, a small LCD screen for real-time feedback, and a toggle/rotary switch.
 
 Top of case:
 
@@ -18,3 +17,11 @@ KiCAD PCB:
 
 <img width="497" height="616" alt="image" src="https://github.com/user-attachments/assets/3a84a51b-2c1a-4567-8740-0ef65b54043a" />
 
+BOM:
+-Custom Printed PCB
+-1x 0.91 inch OLED display
+-9 Mechanical keyboard switches +  DSA keycaps (MX-Style switches)
+-Seeed XIAO RP2040
+-EC11 Rotary encoders
+-4x M3x16mm screws
+-4x M3x5mx4mm heatset inserts
